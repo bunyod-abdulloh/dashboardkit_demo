@@ -1,4 +1,4 @@
-
+/*
 @font-face {
   font-family: "feather";
   src: url('feather/feather.eot?t=1525787366991'); /* IE9*/
@@ -7,7 +7,7 @@
   url('feather/feather.ttf?t=1525787366991') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
   url('feather/feather.svg?t=1525787366991#feather') format('svg'); /* iOS 4.1- */
 }
-
+*/
 .feather {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'feather' !important;
